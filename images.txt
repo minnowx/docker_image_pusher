@@ -1,9 +1,10 @@
-nginx
-redis
-postgres:16.15
-postgres:14.24
-python:3.8.20
-python:3.14.7
-azraelrabbit/monupw:latest
+#nginx
+#redis
+#postgres:16.15
+#postgres:14.24
+#python:3.8.20
+#python:3.14.7
+#azraelrabbit/monupw:latest
+mono
 #支持指定架构
  --platform=linux/amd64
