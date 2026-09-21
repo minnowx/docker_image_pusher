@@ -7,4 +7,5 @@
 #azraelrabbit/monupw:latest
 #mono
 #python:3.11.16
-ubuntu:latest
+#ubuntu:latest
+ubuntu:22.04
