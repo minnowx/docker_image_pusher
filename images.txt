@@ -8,4 +8,5 @@
 #mono
 #python:3.11.16
 #ubuntu:latest
-ubuntu:22.04
+#ubuntu:22.04
+intersystems/iris-community:latest-cd
